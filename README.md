@@ -1,4 +1,4 @@
-# PRESS-B Matching Task
+# Desktop PRESS-B Matching Task
 
 A desktop reimplementation of the PRESS-B concurrent variable-interval schedule task from [Klapes et al. (2020, JEAB)](literature/Klapes%20et%20al.%20(2020).pdf) and [Klapes (2021, JEAB)](literature/J%20Exper%20Analysis%20Behavior%20-%202021%20-%20Klapes%20-%20Methodological%20improvements%20to%20a%20Procedure%20for%20Rapidly%20Establishing.pdf), extended with a mouse-click modality for studying the matching law in humans.
 
